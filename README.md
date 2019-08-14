@@ -1,3 +1,2 @@
 # alibaba-s-Treasure
-A practice for python code .
-It's a game code
+May world peace prevail Amin
